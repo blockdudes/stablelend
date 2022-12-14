@@ -1,6 +1,6 @@
 # StableLend
 
-Deployed App Link : [stablelend.xyz](https:// stablelend.xyz)
+Deployed App Link : [stablelend.xyz](https://stablelend.xyz)
 
 ### What is StableLend
 
